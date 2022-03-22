@@ -1,0 +1,47 @@
+h1{
+    color: brown;
+}
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    width: 500px;
+    height: 20px;
+}
+
+section{
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+main{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: auto;
+    background-color: darkgray;
+
+}
+
+
+
+div{
+ background-color: beige;
+border-radius: 30px;
+border: solid;
+}
+
+p{
+    text-align: center;
+    text-transform: capitalize;
+}
